@@ -46,9 +46,6 @@
 
 ---
 
-## 📷 Screenshots
-
-_(Add screenshots here if available)_
 
 ---
 
