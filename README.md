@@ -44,8 +44,6 @@
 - **TypeScript** – Strongly typed development  
 - **Lucide Icons** – Icon set for clean visuals  
 
----
-
 
 ---
 
